@@ -36,3 +36,6 @@ Custom Windows Forms Minesweeper game built with C# in JetBrains Rider.
 - Windows Forms
 - .NET
 ---
+## 🚀 How to Run
+-You can copy the code and run with "Jetbrain Rider" or "Visual Studio"
+-You can go to tags "EXE" and download exe file
